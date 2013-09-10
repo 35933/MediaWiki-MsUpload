@@ -4,6 +4,7 @@
 
 #upload_container.start-loading{
 	background: url(../images/msu_loading.png) no-repeat 5px 5px;
+    display: none;
 }
 
 #upload_select{
