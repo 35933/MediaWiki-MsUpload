@@ -49,6 +49,7 @@
 
 
 #upload_drop{
+  display: none;
   margin:3px;
   padding:5px;
   border:1px dashed #ddd;
